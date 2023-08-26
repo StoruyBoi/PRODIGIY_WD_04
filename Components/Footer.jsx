@@ -20,7 +20,7 @@ export default function Footer() {
 <h1>Wow you've made it to the end. <br />
 Thanks a million!</h1>
 <p>but dont't worry, I wont charge that much</p>
-<button>Hire Me!<i className="em em-hand"  aria-label="RAISED HAND"></i></button>
+<button><a style={{color:'white'}} href="../Media/resume.pdf" download="resume">Download</a><i className="em em-hand"  aria-label="RAISED HAND"></i></button>
 
 </div>
 
