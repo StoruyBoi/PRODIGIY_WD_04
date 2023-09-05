@@ -72,7 +72,7 @@ useEffect(()=>{
     <>
       <nav>
         <h1>
-          <a  href="#">console.log(hello)</a>
+          <a  href="#"><PORTFOLIO</a>
         </h1>
         <div className="list_links">
           <ul>
