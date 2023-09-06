@@ -1,0 +1,14 @@
+.ach-container{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   gap: 80px;
+}
+.for-ac-img{
+    background: url(../Media/ac.png) no-repeat;
+ 
+ background-position: center;
+ background-size: contain;
+ height: 400px;
+ width: 100%;
+}

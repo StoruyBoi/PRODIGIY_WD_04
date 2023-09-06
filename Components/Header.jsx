@@ -72,7 +72,7 @@ useEffect(()=>{
     <>
       <nav>
         <h1>
-          <a  href="#"><PORTFOLIO</a>
+          <a  href="#"><h1>hello</h1></a>
         </h1>
         <div className="list_links">
           <ul>
@@ -83,8 +83,12 @@ useEffect(()=>{
               <a href="#about">Experience</a>
             </li>
             <li>
+              <a href="#ach">Achievement</a>
+            </li>
+            <li>
               <a href="#work">Projects</a>
             </li>
+       
             <li>
               <a href="#contact">Contact</a>
             </li>
