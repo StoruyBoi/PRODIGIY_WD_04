@@ -66,13 +66,13 @@ useEffect(()=>{
     document.body.className=theme;
 },[theme]);
 
-
+const heading="<Developer.IO>"
 
   return (
     <>
       <nav>
         <h1>
-          <a  href="#"><h1>hello</h1></a>
+          <a  href="#"><h1>{heading}</h1></a>
         </h1>
         <div className="list_links">
           <ul>
